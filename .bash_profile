@@ -1,3 +1,7 @@
+# I am curently setting the colours from terminal.app
+# http://ethanschoonover.com/solarized
+# Using this https://github.com/tomislav/osx-lion-terminal.app-colors-solarized
+
 # Add `~/bin` to the `$PATH`
 export PATH="$HOME/bin:$PATH"
 
