@@ -1,4 +1,4 @@
-# SETUP YOUR PATH HERE
+# MY PATH SETTINGS ARE HERE
 
 PATH=/opt/local/bin
 PATH=$PATH:/usr/local/bin
@@ -9,6 +9,9 @@ PATH=$PATH:/usr/sbin
 PATH=$PATH:/sbin
 PATH=$PATH:/usr/X11/bin
 PATH=$PATH:/usr/local/git/bin
+
+# http://www.lullabot.com/articles/installing-php-pear-and-pecl-extensions-on-mamp-mac-os-x-107-lion
+
 PATH=$PATH:/Applications/MAMP/bin/php/php5.3.14/bin
 
 export PATH
