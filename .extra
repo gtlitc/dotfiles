@@ -1,0 +1,14 @@
+# SETUP YOUR PATH HERE
+
+PATH=/opt/local/bin
+PATH=$PATH:/usr/local/bin
+PATH=$PATH:/bin
+PATH=$PATH:/Users/george/bin
+PATH=$PATH:/usr/bin
+PATH=$PATH:/usr/sbin
+PATH=$PATH:/sbin
+PATH=$PATH:/usr/X11/bin
+PATH=$PATH:/usr/local/git/bin
+PATH=$PATH:/Applications/MAMP/bin/php/php5.3.14/bin
+
+export PATH
